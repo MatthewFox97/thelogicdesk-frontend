@@ -62,7 +62,7 @@
     <div class="card-body">
       <h5 class="card-title">Open Souce</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <a href="#" class="btn btn-primary">Our GitHub</a>
+      <a href="https://github.com/MatthewFox97" class="btn btn-primary">Our GitHub</a>
     </div>
   </div>
 </div>
